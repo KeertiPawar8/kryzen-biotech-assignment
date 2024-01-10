@@ -1,5 +1,5 @@
 # Kryzen-biotech
-It is a pdf generating application. It takes data from users and generates a pdf
+It is a pdf generating application. It takes data from users and generates a pdf.
 
 Frontend Deployed Link - https://kryzen-biotech-frontend.vercel.app/
 
