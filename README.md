@@ -3,6 +3,7 @@ It is a pdf generating application. It takes data from users and generates a pdf
 Frontend Deployed Link - https://kryzen-biotech-frontend.vercel.app/
 
 Backend Deployed Link - https://graceful-bull-pullover.cyclic.app/
+
 **All Routes**
 
 - `POST /user/register` route - To register a new user's Details.
