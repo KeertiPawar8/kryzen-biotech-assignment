@@ -7,6 +7,7 @@ import { saveAs } from "file-saver";
 function Preview() {
   const location = useLocation();
   let { name, age, address, photo } = location.state;
+  photo = photo.replace("http://", "https://");
   async function handleClick() {
     const fileExtension = photo.split(".").pop().toLowerCase();
 
